@@ -1,0 +1,8 @@
+.box {
+  max-width: 540px;
+  max-height: min-content;
+}
+
+.box .imagen {
+  min-height: min-content;
+}
